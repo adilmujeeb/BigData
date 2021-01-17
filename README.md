@@ -1,2 +1,2 @@
 # BigData
-For study
+For study purpose
